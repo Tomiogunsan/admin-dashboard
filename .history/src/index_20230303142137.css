@@ -25,11 +25,4 @@ body,
 }
 
 /* Handle */
-::-webkit-scrollbar-thumb  {
-  background: #888;
-}
-
-/* Handle on Hover */
-::-webkit-scrollbar-track:hover {
-  background: #555;
-}
+::-web
