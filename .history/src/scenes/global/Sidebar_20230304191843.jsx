@@ -1,0 +1,10 @@
+import React, {useState} from 'react'
+import {ProSidebar, Menu, MenuItem } from "react-pro-sidebar"
+import 'react-pro-sidebar/dist/css/s'
+
+export default function Sidebar() {
+  return (
+    <div>Sidebar</div>
+  )
+}
+
