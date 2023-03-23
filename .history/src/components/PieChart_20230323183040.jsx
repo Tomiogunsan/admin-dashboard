@@ -8,19 +8,7 @@ const PieChart = () => {
   const colors = tokens(theme.palette.mode);
   return (
     <ResponsivePie
-    data={data}
-    theme={{
-      axis: {
-        domain: {
-          line: {
-            stroke: colors.grey[100],
-          },
-        },
-        legend: {
-          text: {
-            fill: colors.grey[100],
-          },
-        },
+      
           ticks: {
             line: {
               stroke: colors.grey[100],
